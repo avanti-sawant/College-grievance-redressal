@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filter_option"
+        android:icon="@drawable/ic_baseline_filter_list_24"
+        android:title="Item 1"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/subitem_parent"
+                android:title="Parent" />
+
+            <item
+                android:id="@+id/subitem_faculty"
+                android:title="Faculty" />
+            <item
+                android:id="@+id/subitem_student"
+                android:title="Student" />
+        </menu>
+    </item>
+
+</menu>

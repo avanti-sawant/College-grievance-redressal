@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_add_grievance.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_add_new_batch.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_admin_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_admin_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_dashboard.xml" value="0.18854166666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_faculty_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_faculty_post_grievance.xml" value="0.18541666666666667" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_faculty_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_grievance_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_parent_login.xml" value="0.18854166666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_parent_post_grievance.xml" value="0.1765625" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_parent_register.xml" value="0.25" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_see_grievence_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_student_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_student_post_grievance.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/activity_student_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/custom_approve_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/layout/custom_grievance_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/StudioApp/college/2022/GrievenceMgmt/GrievanceManagement/app/src/main/res/menu/main_menu.xml" value="1.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
